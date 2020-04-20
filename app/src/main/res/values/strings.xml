@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yeld</string>
+    <string name="title_activity_yelp">yelp</string>
+    <string name="title_activity_yelp_detail">YelpDetail</string>
+</resources>
